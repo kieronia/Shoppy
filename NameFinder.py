@@ -1,5 +1,5 @@
 from colorama import Fore, init, Style
-import threading, requests, os
+import requests, os
 
 init(convert = True)
 
